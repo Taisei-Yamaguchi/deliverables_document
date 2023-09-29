@@ -2,7 +2,7 @@
 orgnize documents that describe each deliverable.
 
 1. Laravel_Snack1.3
-    ・https://github.com/Taisei-Yamaguchi/Laravel_Snack1.2
+    ・https://github.com/Taisei-Yamaguchi/Laravel_Snack1.2<br>
     ・http://43.207.83.193/Laravel_Snack1.2/Snack1.0/public/mypage/login
 
 2. Laravel_Chat
