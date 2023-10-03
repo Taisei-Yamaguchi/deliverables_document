@@ -13,8 +13,7 @@ orgnize documents that describe each deliverable.
 
 3. MemberIntegrateAPI
     <br>https://github.com/Taisei-Yamaguchi/member_integrate_API<br>
-    <br>
-
+    <br>https://docs.google.com/document/d/1wUAhP-PzxyFjvZwm9h0iF_-yuJMm2EHsQH89qq2-7xo/edit<br>
 4. BananaAI
    <br>https://github.com/Taisei-Yamaguchi/BananaAI2_py<br>
     <br>
